@@ -118,5 +118,6 @@ One of the inner divisions will have information about the dropdown and the othe
 Layout for adding graphs.
 Callback function to compute data, create graph and return to the layout.
 
-Here is what the dashboard of my final assignment looked like 
+###### Here is a quick look at the dashboard for my final assignment
+
 ![Dashboard](https://i.imgur.com/cwR4XOn.jpg)
