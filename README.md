@@ -119,4 +119,4 @@ Layout for adding graphs.
 Callback function to compute data, create graph and return to the layout.
 
 Here is what the dashboard of my final assignment looked like 
-![Dashboard]([https://myoctocat.com/assets/images/base-octocat.svg](https://imgur.com/cwR4XOn))
+![Dashboard](https://imgur.com/cwR4XOn)
